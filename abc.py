@@ -1,7 +1,15 @@
 print("Hellow");
-  sssss
-hi how are you
 
-sdfsdf
-{def d(self, arg):ssss
-    pass for value in variable}
+b = 100;
+
+def func1(a):
+    a = 9;
+    print(a);
+
+func1(b);
+
+
+# func1(100);
+
+
+print(b);
