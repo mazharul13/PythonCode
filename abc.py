@@ -15,3 +15,6 @@ func1(b);
 print(b);
 
 print(b);
+
+print(b);
+print(b);
