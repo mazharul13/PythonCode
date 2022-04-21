@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 print("SUB-BRANCH");
 print("2222");
+=======
+print("MASTER");
+print("MASTER");
+>>>>>>> 2a7af1d2119c93071880f38a2931b38d8d5d767f
 
 print("2222");
 print("2222");
+
+print("aaa");
+print("BBB");
+
 
 
 print("ZZZ");
