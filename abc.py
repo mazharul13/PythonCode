@@ -1,3 +1,4 @@
+print("2222");
 print("Hellow");
 
 b = 100;
@@ -19,6 +20,10 @@ print(b);
 
 print(b);
 print(b);
+
+
+print(c);
+print(c);
 
 
 print(c);
