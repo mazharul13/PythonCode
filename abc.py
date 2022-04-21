@@ -1,3 +1,6 @@
+print("MASTER");
+print("MASTER");
+
 print("2222");
 print("2222");
 
