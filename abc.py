@@ -3,9 +3,7 @@ print("2222");
 
 print("2222");
 print("2222");git log
-sdfsdf
-
-44444444444444444444444444444444444
+sdfsdf 
 
 dddd
 dddddddddddd
