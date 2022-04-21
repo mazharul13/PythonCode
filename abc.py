@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("SUB-BRANCH");
 print("2222");
 =======
@@ -13,6 +14,11 @@ print("aaa");
 print("BBB");
 
 
+=======
+print("2222");
+print("2222");
+
+>>>>>>> parent of 6a8fdfc (subA)
 
 print("222233");
 
