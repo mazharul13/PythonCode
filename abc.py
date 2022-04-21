@@ -1,6 +1,7 @@
 print("Hellow");
 
 b = 100;
+c = 100;
 
 def func1(a):
     a = 9;
@@ -18,3 +19,7 @@ print(b);
 
 print(b);
 print(b);
+
+
+print(c);
+print(c);
