@@ -1,7 +1,11 @@
 print("2222");
 print("2222");
 
-print("Hellow");
+
+print("2222");
+print("2222");
+
+print("Hellow");      
 
 b = 100;
 c = 100;
